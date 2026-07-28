@@ -142,7 +142,11 @@ Image/
 After uploading the image, display it with:
 
 ```markdown
-![Dashboard Preview](Image/Dashboard.png)
+# 📷 Dashboard Preview
+
+<p align="center">
+  <img src="image/dashboard.png" alt="HR Employee Attrition Dashboard" width="900">
+</p>
 ```
 
 ---

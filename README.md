@@ -132,14 +132,11 @@ The dashboard provides interactive visualizations to analyze employee attrition 
 
 # 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
-
 ```text
 Image/
 └── Dashboard.png
 ```
 
-After uploading the image, display it with:
 
 ```markdown
 ## 📷 Dashboard Preview

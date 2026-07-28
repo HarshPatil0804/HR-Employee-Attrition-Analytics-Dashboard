@@ -142,11 +142,9 @@ Image/
 After uploading the image, display it with:
 
 ```markdown
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-<p align="center">
-  <img src="image/dashboard.png" alt="HR Employee Attrition Dashboard" width="900">
-</p>
+![HR Employee Attrition Dashboard](Image/Dashboard.png)
 ```
 
 ---
@@ -188,20 +186,20 @@ This dashboard helps organizations:
 ```text
 HR-Employee-Attrition-Analytics/
 │
-├── Dataset/
-│   └── HR-Employee-Attrition.csv
-│
-├── Data_Cleaning/
-│   └── HR_Data_Cleaning.ipynb
-│
-├── Dashboard/
-│   └── HR_Employee_Attrition.pbix
-│
 ├── Image/
 │   └── Dashboard.png
 │
+├── Dataset/
+│   └── HR-Employee-Attrition.csv
+│
+├── Notebook/
+│   └── HR Employee Attrition.ipynb
+│
+├── Dashboard/
+│   └── HR_Analytics_Dashboard.pbix
+│
 ├── Report/
-│   └── HR_Employee_Attrition_Analytics_Report.docx
+│   └── HR_Employee_Attrition_Report.pdf
 │
 └── README.md
 ```

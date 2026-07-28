@@ -135,14 +135,14 @@ The dashboard provides interactive visualizations to analyze employee attrition 
 > Add your Power BI dashboard screenshot here.
 
 ```text
-Images/
+Image/
 └── Dashboard.png
 ```
 
 After uploading the image, display it with:
 
 ```markdown
-![Dashboard Preview](Images/Dashboard.png)
+![Dashboard Preview](Image/Dashboard.png)
 ```
 
 ---
@@ -193,7 +193,7 @@ HR-Employee-Attrition-Analytics/
 ├── Dashboard/
 │   └── HR_Employee_Attrition.pbix
 │
-├── Images/
+├── Image/
 │   └── Dashboard.png
 │
 ├── Report/
